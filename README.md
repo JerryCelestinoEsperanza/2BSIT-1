@@ -1,1 +1,8 @@
-# 2BSIT-1
+# Group name and Members
+
+CTRL C + CTRL V - DONE
+VILLAROSA, Carnby G.
+CALACDAY, Jan Aevan R.
+JOAQUIN, Carl Andrei D.
+PAMPLENA, Jaydee M.
+
