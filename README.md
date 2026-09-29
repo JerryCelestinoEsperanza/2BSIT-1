@@ -1,6 +1,4 @@
-# Group name and Members
-
-CTRL C + CTRL V - DONE
+# CTRL C + CTRL V - DONE
 
 VILLAROSA, Carnby G.
 
